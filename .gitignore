@@ -16,3 +16,4 @@ lightning_logs/*
 result/*
 scripts/*
 outputs/*
+.python-version
